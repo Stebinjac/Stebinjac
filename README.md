@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Stebin Jacob Titus
 
-<!--
-**Stebinjac/Stebinjac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student | 💻 Developer | 🤖 AI/ML Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about building impactful projects at the intersection of AI, development, and user experience. I enjoy exploring cutting-edge models, prompt engineering, and creating intuitive web-based tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+- 🔍 **Image Forgery Detection** – Using OpenCV + SHA-256 hashing to identify tampered images  
+- 🧠 **Mental Health Bot** – Built with LLaMA 3 + EmpatheticDialogues for empathetic GenAI support  
+- 💡 **Startup Pitch Generator** – Auto-generates pitches, slides & images using Groq + FastAPI + LLaMA
+
+---
+
+## 🛠 Skills & Tools
+
+`Python` `JavaScript` `FastAPI` `MySQL` `OpenCV`  
+`LLaMA` `HuggingFace` `Prompt Engineering` `C` `Java`  
+`Git` `VS Code` `Parrot OS`
+
+---
+
+## 🌱 Currently Learning
+
+- 🧠 Advanced Prompt Engineering  
+- ⚡ Building with Groq, GGUF models, and LLaMA 3  
+- 🎨 UI/UX enhancements for GenAI applications
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/stebinjacobtitus/)  
+- 📧 Email: [stebinjac@gmail.com](mailto:stebinjac@gmail.com)  
+- 📸 Instagram: [@stebinjaco6](https://www.instagram.com/stebinjaco6/)
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore my repos and drop a star if something inspires you.*
