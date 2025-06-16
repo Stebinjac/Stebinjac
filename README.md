@@ -14,11 +14,15 @@ Welcome to my GitHub! I'm passionate about building impactful projects at the in
 
 ---
 
-## 🛠 Skills & Tools
-
-`Python` `JavaScript` `FastAPI` `MySQL` `OpenCV`  
-`LLaMA` `HuggingFace` `Prompt Engineering` `C` `Java`  
-`Git` `VS Code` `Parrot OS`
+### 🛠 Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-AI-black?style=for-the-badge&logo=meta&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
